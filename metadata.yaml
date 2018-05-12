@@ -1,0 +1,30 @@
+_repo: Die-Italienische-Plastik_18733
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bode, Wilhelm
+    birthdate: 1845
+    deathdate: 1929
+    gutenberg_agent_id: '8212'
+    url: http://www.gutenberg.org/2009/agents/8212
+    wikipedia: http://de.wikipedia.org/wiki/Wilhelm_von_Bode
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Art
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18733'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sculpture -- Italy -- History'
+- !lcc 'NB'
+title: Die Italienische Plastik
+url: http://www.gutenberg.org/ebooks/18733
