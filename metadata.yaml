@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8212
     wikipedia: http://de.wikipedia.org/wiki/Wilhelm_von_Bode
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18733#Die-Italienische-Plastik
 gutenberg_bookshelf:
 - DE Sachbuch
 - Art
